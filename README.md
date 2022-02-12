@@ -2,7 +2,7 @@
 
 I am Bruno,
 
-🎓 currently studying Sytems Analysis and Development
+🎓 Sytems Analysis and Development
 
 ### 🛠 Technologies 
 - 💻 Javascript | Typescript | Java 
@@ -10,7 +10,7 @@ I am Bruno,
 - 🛢 MySQL | PostgreSQL | Firebase 
 
 ### 🌱 Learning
-- 🌐 NodeJs | Express | React Native | GraphQL
+- 🌐 Express | React Native | GraphQL
 - 🔨 Jest | Cypress 
 - 🛢 MongoDB
 
