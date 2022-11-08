@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 ### 🛠 Technologies 
-- 💻 Javascript | Typescript | NodeJS | Java 
+- 💻 Javascript | Typescript | Java 
 - 🌐 HTML | CSS | React | NextJs | Redux | Express
 - 🛢 MySQL | PostgreSQL | MongoDB | Firebase 
 - 🔨 Jest | Cypress 
