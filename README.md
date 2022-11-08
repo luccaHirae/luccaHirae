@@ -1,16 +1,14 @@
 ## Hello World 👋
 
-I'm Bruno Hirae
-
 ### 🛠 Technologies 
 - 💻 Javascript | Typescript | Java 
-- 🌐 HTML | CSS | React | NextJs | Redux 
-- 🛢 MySQL | PostgreSQL | Firebase 
+- 🌐 HTML | CSS | React | NextJs | Redux | Express
+- 🛢 MySQL | PostgreSQL | MongoDB | Firebase 
+- 🔨 Jest | Cypress 
 
 ### 🌱 Learning
-- 🌐 Express | React Native | GraphQL
-- 🔨 Jest | Cypress 
-- 🛢 MongoDB
+- 🌐 React Native | GraphQL 
+- 🛢 DynamoDB
 
 <!---
 luccaHirae/luccaHirae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
